@@ -1,0 +1,32 @@
+aid: danish-data-service-energi
+name: Danish data service Energi
+description: "Open energy data from Energinet to society"
+url: https://www.energidataservice.dk/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Environment"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Environment
+  - Public APIs
+apis:
+  - name: Danish data service Energi
+    description: "Open energy data from Energinet to society"
+    humanURL: https://www.energidataservice.dk/
+    baseURL: https://www.energidataservice.dk/
+    tags:
+      - Environment
+    properties:
+      - type: Documentation
+        url: https://www.energidataservice.dk/
+common:
+  - type: Website
+    url: https://www.energidataservice.dk/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
