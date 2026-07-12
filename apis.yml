@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.energidataservice.dk/
 common:
+  - type: DomainSecurity
+    url: security/danish-data-service-energi-domain-security.yml
   - type: Website
     url: https://www.energidataservice.dk/
   - type: PublicAPIsListing
