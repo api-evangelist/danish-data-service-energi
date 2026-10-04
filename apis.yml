@@ -39,7 +39,6 @@ apis:
   - name: Danish data service Energi
     description: "Open energy data from Energinet to society"
     humanURL: https://www.energidataservice.dk/
-    baseURL: https://www.energidataservice.dk/
     tags:
       - Environment
     properties:
