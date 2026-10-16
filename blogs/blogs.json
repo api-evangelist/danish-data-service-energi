@@ -1,0 +1,14 @@
+{
+  "repo": "danish-data-service-energi",
+  "feeds": [
+    {
+      "source": "https://www.energidataservice.dk/news",
+      "feed_url": "https://www.energidataservice.dk/news",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
